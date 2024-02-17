@@ -228,3 +228,16 @@ p{
     font-size: 1.5rem;
 }
 
+
+@media screen and (max-width: 768px) {
+    .intro-card{
+        flex-direction: column;
+    }
+    .exp{
+        flex-direction: column;
+    }
+
+    .project-container{
+        grid-template-columns: 1fr;
+    }
+}
