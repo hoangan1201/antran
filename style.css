@@ -167,6 +167,7 @@ i{
     padding-bottom: 1rem;
     border-bottom: 1px solid #C49B66;
     color: #9e9c9c;
+    flex-wrap: wrap;
 }
   
 .project-stack span {
